@@ -1,0 +1,13 @@
+{
+  "movies": 2000,
+  "categories": 8,
+  "output": "/mnt/data/static_movie_site",
+  "category_counts": {
+    "west": 756,
+    "hk_tw": 353,
+    "asia": 368,
+    "domestic": 519,
+    "suspense": 3,
+    "drama": 1
+  }
+}
